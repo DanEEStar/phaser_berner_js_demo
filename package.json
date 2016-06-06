@@ -1,0 +1,17 @@
+{
+  "name": "phaser_berner_js_demo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Egger <daniel.egger@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "2.2.0",
+    "phaser": "2.4.8"
+  }
+}
